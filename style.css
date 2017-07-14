@@ -1,0 +1,23 @@
+.pay {
+	background: #e7e7e7;
+
+}
+.logo {
+	display: block;
+	width: 200px;
+	margin: 50px auto;
+}
+.left {
+	padding-left: 100px;
+	font-size: 18px;
+}
+.qrcode {
+	width: 200px;
+}
+
+.footer {
+	background: #e7e7e7;
+	padding-top: 150px;
+	text-align: center;
+
+}
